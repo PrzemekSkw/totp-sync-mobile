@@ -1,0 +1,6 @@
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/CMakeFiles/appmodules.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/arm64-v8a/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/home/przemek/projekt/TOTPSyncMobile/android/app/build/intermediates/cxx/Debug/w7366527/obj/x86
