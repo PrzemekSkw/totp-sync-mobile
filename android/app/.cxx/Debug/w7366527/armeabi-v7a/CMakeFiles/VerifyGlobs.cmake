@@ -57,6 +57,69 @@ if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
   file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
 endif()
 
+# rnsvg_SRCS at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:10 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/*.cpp")
+set(OLD_GLOB
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/rnsvg.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
+endif()
+
+# rnsvg_SRCS at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:10 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/*.cpp")
+set(OLD_GLOB
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGImageShadowNode.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGImageState.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGLayoutableShadowNode.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../../common/cpp/react/renderer/components/rnsvg/RNSVGShadowNodes.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
+endif()
+
+# rnsvg_codegen_SRCS at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/CMakeLists.txt:11 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/*cpp")
+set(OLD_GLOB
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/ComponentDescriptors.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/EventEmitters.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/Props.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/ShadowNodes.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/States.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-svg/android/src/main/jni/../../../build/generated/source/codegen/jni/react/renderer/components/rnsvg/rnsvgJSI-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/*.cpp")
+set(OLD_GLOB
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/RNVectorIconsSpec-generated.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
+endif()
+
+# react_codegen_SRCS at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/CMakeLists.txt:9 (file)
+file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/*.cpp")
+set(OLD_GLOB
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/ComponentDescriptors.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/EventEmitters.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/Props.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/RNVectorIconsSpecJSI-generated.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/ShadowNodes.cpp"
+  "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native-vector-icons/android/build/generated/source/codegen/jni/react/renderer/components/RNVectorIconsSpec/States.cpp"
+  )
+if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
+  message("-- GLOB mismatch!")
+  file(TOUCH_NOCREATE "/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/armeabi-v7a/CMakeFiles/cmake.verify_globs")
+endif()
+
 # override_cpp_SRC at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:50 (file)
 # input_SRC at /home/przemek/projekt/TOTPSyncMobile/node_modules/react-native/ReactAndroid/cmake-utils/ReactNative-application.cmake:55 (file)
 file(GLOB NEW_GLOB LIST_DIRECTORIES true "/home/przemek/projekt/TOTPSyncMobile/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/*.cpp")
