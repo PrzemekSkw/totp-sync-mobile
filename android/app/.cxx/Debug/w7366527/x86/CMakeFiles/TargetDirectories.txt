@@ -1,9 +1,15 @@
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/CMakeFiles/appmodules.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/CMakeFiles/edit_cache.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/CMakeFiles/rebuild_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/react_codegen_rngesturehandler_codegen.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/edit_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rngesturehandler_codegen_autolinked_build/CMakeFiles/rebuild_cache.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/safeareacontext_autolinked_build/CMakeFiles/edit_cache.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/safeareacontext_autolinked_build/CMakeFiles/rebuild_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnscreens_autolinked_build/CMakeFiles/react_codegen_rnscreens.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnscreens_autolinked_build/CMakeFiles/edit_cache.dir
+/home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnscreens_autolinked_build/CMakeFiles/rebuild_cache.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnsvg_autolinked_build/CMakeFiles/react_codegen_rnsvg.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnsvg_autolinked_build/CMakeFiles/edit_cache.dir
 /home/przemek/projekt/TOTPSyncMobile/android/app/.cxx/Debug/w7366527/x86/rnsvg_autolinked_build/CMakeFiles/rebuild_cache.dir
