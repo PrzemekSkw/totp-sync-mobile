@@ -1,4 +1,4 @@
-import React, {useEffect} from 'react';
+import React, { useEffect } from 'react';
 import {
   SafeAreaView,
   StatusBar,
@@ -8,14 +8,14 @@ import {
   TouchableOpacity,
   Animated,
 } from 'react-native';
-import {NativeStackNavigationProp} from '@react-navigation/native-stack';
-import {RootStackParamList} from '../../App';
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
+import { RootStackParamList } from '../../App';
 
 type Props = {
   navigation: NativeStackNavigationProp<RootStackParamList, 'Setup'>;
 };
 
-function SetupScreen({navigation}: Props) {
+function SetupScreen({ navigation }: Props) {
   const fadeAnim = new Animated.Value(0);
   const slideAnim1 = new Animated.Value(50);
   const slideAnim2 = new Animated.Value(50);
@@ -64,16 +64,13 @@ function SetupScreen({navigation}: Props) {
         <View style={styles.optionsContainer}>
           <Animated.View
             style={{
-              transform: [{translateY: slideAnim1}],
+              transform: [{ translateY: slideAnim1 }],
               opacity: fadeAnim,
             }}>
             <TouchableOpacity
               style={styles.optionButton}
               activeOpacity={0.8}
-              onPress={() => {
-                // TODO: Navigate to Import screen
-                console.log('Import Keys');
-              }}>
+              onPress={() => navigation.navigate('ChooseMode')}>
               <Text style={styles.optionTitle}>Import Keys</Text>
               <Text style={styles.optionDesc}>
                 From Google Authenticator, Authy, etc.
@@ -83,16 +80,13 @@ function SetupScreen({navigation}: Props) {
 
           <Animated.View
             style={{
-              transform: [{translateY: slideAnim2}],
+              transform: [{ translateY: slideAnim2 }],
               opacity: fadeAnim,
             }}>
             <TouchableOpacity
               style={styles.optionButton}
               activeOpacity={0.8}
-              onPress={() => {
-                // TODO: Navigate to Add Account screen
-                console.log('Add New Account');
-              }}>
+              onPress={() => navigation.navigate('ChooseMode')}>
               <Text style={styles.optionTitle}>Add New Account</Text>
               <Text style={styles.optionDesc}>
                 Scan QR code or enter manually
@@ -133,12 +127,12 @@ const styles = StyleSheet.create({
     gap: 16,
   },
   optionTitle: {
-    fontSize: 22,             
-    fontWeight: '900',         
+    fontSize: 22,
+    fontWeight: '900',
     color: '#ffffff',
     marginBottom: 8,
-    letterSpacing: 1,          
-    textTransform: 'uppercase', 
+    letterSpacing: 1,
+    textTransform: 'uppercase',
   },
   optionButton: {
     backgroundColor: '#00cec9',
@@ -146,7 +140,7 @@ const styles = StyleSheet.create({
     borderRadius: 20,
     alignItems: 'center',
     shadowColor: '#00cec9',
-    shadowOffset: {width: 0, height: 4},
+    shadowOffset: { width: 0, height: 4 },
     shadowOpacity: 0.2,
     shadowRadius: 8,
     elevation: 6,
